@@ -1,6 +1,10 @@
 # Hi Im Dom!
 
-[Here is my linkedIn](https://www.linkedin.com/in/dominique-buckner-2648382b0)
+[Here is my LinkedIn](https://www.linkedin.com/in/dominique-buckner-2648382b0)
+
+[Steam](https://steamcommunity.com/profiles/76561198338469975/)
+[Playstation](https://www.playstation.com/en-us/playstation-network/)
+[Xbox](http://live.xbox.com/Profile?Gamertag=DomKageUI)
 
 Im a 24 years old. And I Mod old gaming consoles for fun!
 
@@ -20,6 +24,4 @@ Im a 24 years old. And I Mod old gaming consoles for fun!
 <li>Kabukicho,Tokyo</li>
 <li>Seoul,South Korea</li>
 <li>Honolulu,Hawaii</li>
-
-
 
